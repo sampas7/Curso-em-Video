@@ -1,0 +1,1 @@
+Repositório criado para armazenar os códigos feitos durante o curso de JavaScript do canal Curso em Vídeo.
