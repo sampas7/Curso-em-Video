@@ -1,0 +1,106 @@
+*Converter de número para string*
+
+String(n)
+n.toString()
+
+n = número/variável que será convertido.
+
+*Formatando Strings*
+
+var smp = 'JavaScript'
+
+smp.length // quantos caracteres a string tem
+smp.toUpperCase() // tudo para 'MAIÚSCULAS'
+smp.toLowerCase() // tudo pra 'minúsculas'
+
+*Formatando Números*
+
+var n1 = 1543.5
+
+n1.toFixed(2) // Formata pra mostrar 2 casas decimais
+n1.toLocaleString('pt-BR, {style: 'currency', currency: 'BRL'}) // Formato de salário.
+
+*Operadores Aritméticos*
+
+5 + 2 = 7 // soma
+5 - 2 = 3 // subtração
+5 * 2 = 10 // multiplicação
+5 / 2 = 2.5 // divisão real
+5 % 2 = 1 // resto da divisão
+5 ** 2 = 25 // potência
+
+Precedência
+
+| () // parênteses
+| ** // potência
+| * / % // multiplicação, divisão real, resto da divisão 
+| + - // soma, subtração
+v
+
+*Simplificação de auto-atribuições*
+
+var n = 3
+n = n + 4   ou   n+= 4
+n = n - 5   ou   n-= 5
+n = n * 4   ou   n*= 4
+n = n / 2   ou   n/= 2
+n = n ** 2  ou   n**= 2
+n = n % 5   ou   n%= 5
+
+*Incremento e Decremento*
+
+var x = 5
+x = x + 1  ou  x++ // Incremento
+x = x - 1  ou  x-- // Decremento
+
+*Operadores Relacionais*
+
+> maior
+< menor
+>= maior ou igual
+<= menor ou igual
+== igual
+!= diferente
+
+Operador de Identidade:
+
+5 == 5 true
+5 == '5' true
+5 === '5' false // true apenas se são do mesmo tipo e valor
+5 === 5 true
+
+não tem ordem de precedência.
+
+*Operadores Lógicos*
+
+!  negação
+&& 'conjunção' ou 'e' 
+|| 'disjunção' ou 'ou'
+
+ordem de precedência caso tenha os 3 operadores numa expressão: primeiro o 'não', depois o 'e' e por último o 'ou'.
+
+*Precedência de Operadores*
+
+| Operadores Aritméticos
+| Operadores Relacionais
+| Operadores Lógicos
+v
+
+*Operadores Ternários*
+
+?
+:
+
+Exemplo:
+
+var media = 6
+
+media > 7 ? 'Aprovado' : 'Reprovado' // caso a condição (o que vem antes da '?') seja true, a variável recebe o valor depois da '?', caso seja false, a variável recebe o valor depois do ':'
+Reprovado
+
+Exemplo 2:
+
+var x = 8
+
+var res = x % 2 == 0 ? 5 : 9 // caso a condição (o que vem antes da '?') seja true, a variável recebe o valor depois da '?', caso seja false, a variável recebe o valor depois do ':'
+5
