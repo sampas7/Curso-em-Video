@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primeiro Programa</title>
+    <title>Terceiro Exercício</title>
     <style>
         body {
             background-color: rgb(134, 27, 235);
@@ -24,9 +24,12 @@
     <p>Me livrei da maldição!</p>
     <script>
 
-        window.alert('Uma mensagem de teste!') // Mensagem na tela
-        window.confirm('É o Sampas, você sabe!') // Mensagem com confirmação
-        window.prompt('E qual o seu nome?') // // Mensagem com "input"
+        var n1 = Number.parseInt(window.prompt('Digite um número.'))
+        var n2 = parseInt(window.prompt('Digite outro número.'))
+        var n3 = Number(window.prompt('Digita mais um só pra finalizar.'))
+        var res = n1 + n2 + n3
+        //window.alert('A soma dos valores é: ' + String(res)) // concatenação pra imprimir
+        window.alert(`A soma dos valores é: ${res}`) // template string para imprimir
 
     </script>
 </body>

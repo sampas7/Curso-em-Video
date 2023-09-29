@@ -1,0 +1,21 @@
+*Converter de número para string:*
+
+String(n)
+n.toString()
+
+n = número/variável que será convertido.
+
+*Formatando Strings:*
+
+var smp = 'JavaScript'
+
+smp.length // quantos caracteres a string tem
+smp.toUpperCase() // tudo para 'MAIÚSCULAS'
+smp.toLowerCase() // tudo pra 'minúsculas'
+
+*Formatando Números:*
+
+var n1 = 1543.5
+
+n1.toFixed(2) // Formata pra mostrar 2 casas decimais
+n1.toLocaleString('pt-BR, {style: 'currency', currency: 'BRL'}) // Formato de salário.
