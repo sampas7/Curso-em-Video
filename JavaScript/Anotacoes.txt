@@ -104,3 +104,13 @@ var x = 8
 
 var res = x % 2 == 0 ? 5 : 9 // caso a condição (o que vem antes da '?') seja true, a variável recebe o valor depois da '?', caso seja false, a variável recebe o valor depois do ':'
 5
+
+*DOM*
+
+DOM = Document Object Model
+Conjunto de objetos dentro do navegador que dá acesso aos componentes internos do website.
+
+Árvore DOM
+
+https://prnt.sc/2KzjohteLIJs
+
