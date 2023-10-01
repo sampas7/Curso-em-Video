@@ -16,6 +16,6 @@ Sinta-se à vontade para explorar.
 
 Para facilitar sua vida, segue o link da playlist do YouTube caso tenha se interessado em fazer esse curso também:
 
-- [Clique aqui para ser redirecionado ao curso.](goto:https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&si=a1K5ZdlLRN3VA9BQ)
+- [Clique aqui para ser redirecionado ao curso.](https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&si=a1K5ZdlLRN3VA9BQ)
 
 Boa sorte e feliz aprendizado!
