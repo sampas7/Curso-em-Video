@@ -25,6 +25,6 @@ Sinta-se à vontade para explorar os diretórios.
 
 Se você tiver perguntas sobre algum curso específico, está interessado em saber mais detalhes sobre um projeto ou simplesmente quer trocar ideia sobre programação e aprendizado, sinta-se à vontade para entrar em contato:
 
-- e-mail(mailto:danielsampaiorocha@gmail.com)
+- [e-mail](mailto:danielsampaiorocha@gmail.com)
 
 Boa sorte e feliz aprendizado!
