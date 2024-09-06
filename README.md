@@ -19,7 +19,7 @@ Sinta-se à vontade para explorar os diretórios.
 
 ## Link do canal Curso em Vídeo
 
-[Clique aqui para ser redirecionado ao canal.](https://www.youtube.com/@CursoemVideo/videos)
+[Clique aqui para ser redirecionado ao canal.](https://www.youtube.com/c/CursoemVídeo/videos)
 
 ## Contato
 
